@@ -2,7 +2,7 @@
 <h3 align="center">Technology Nerd & AI Enthusiast from Singapore</h3>
 
 ## About Me
-I am a graduating tech student at UOL, passionate about technology and its potential to shape the future. Since a young age, I have been a hands-on learner, excited to gain new knowledge and grow within the dynamic tech landscape. I see the industry as full of opportunities for innovation and problem-solving, and I am eager to tackle new challenges that will test my abilities and expand my skills.
+I am a graduating tech student at UOL, passionate about technology and its potential to shape the future. Since a young age, I have been a hands-on learner, excited to gain new knowledge and grow within the dynamic tech landscape. I see the industry as full of opportunities for innovation and problem-solving, and I am eager to tackle new challenges that will test my abilities and expand my skills. 
 
 My goal is to apply my knowledge to real-world challenges, contributing meaningfully to projects that drive progress and create a tangible impact.
 
