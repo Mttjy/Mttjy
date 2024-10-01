@@ -27,7 +27,6 @@ My goal is to apply my knowledge to real-world challenges, contributing meaningf
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/mttjy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mttjy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mttjy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mttjy" height="30" width="40" /></a>
 </p>
 <br>
 
