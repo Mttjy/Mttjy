@@ -2,9 +2,7 @@
 <h3 align="center">Technology Nerd & AI Enthusiast from Singapore</h3>
 
 ## About Me
-I am a graduating tech student at UOL, passionate about technology and its potential to shape the future. Since a young age, I have been a hands-on learner, excited to gain new knowledge and grow within the dynamic tech landscape. I see the industry as full of opportunities for innovation and problem-solving, and I am eager to tackle new challenges that will test my abilities and expand my skills. 
-
-My goal is to apply my knowledge to real-world challenges, contributing meaningfully to projects that drive progress and create a tangible impact.
+I am a graduate tech student from SIM/UOL. I am deeply passionate about the ever-evolving world of technology, particularly in Software Development, AI, and Machine Learning, and their potential to shape the future. From a young age, I have been a hands-on learner, always excited to gain new knowledge in these areas. The tech industry, especially within these fields, offers endless opportunities for innovation and problem-solving. I am eager to indulge in new challenges that test my abilities and push my knowledge and skills further in the Computer Science Field.
 
 ## GitHub Achievements
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mttjy" alt="mttjy" /></a> </p>
@@ -14,11 +12,11 @@ My goal is to apply my knowledge to real-world challenges, contributing meaningf
 ## Other Info
 - 🔭 I’m currently working on **Finding a job that elevates my skills!**
 
-- 🌱 I’m on route to **Obtaining a Degree in Bachelor of Science (Honours) in Computer Science**
+- 🌱 My goal is to **Obtain a Masters**
 
 - 📝 I currently affiliated with **The University of London**
 
-- 🎓 I graduate in **October 2024**
+- 🎓 I graduated in **October 2024**
 
 - ⚡ Fun fact **I speak 3 Languages!**
 
